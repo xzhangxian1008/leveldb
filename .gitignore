@@ -5,6 +5,7 @@
 
 # Build directory.
 build/
+build-debug/
 out/
 
 # clangd
